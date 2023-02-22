@@ -6,7 +6,7 @@
 
 ## Description
 
-<p>A functional Ecommerce Sweater shop created on WordPress with its own Custom Theme. I wanted to showcase my skills with WordPress from scratch. </p>
+<p>A fully functional eCommerce Sweater shop created on WordPress with its own Custom Theme. I wanted to showcase my skills with WordPress from scratch. </p>
 <p>It was developed from scratch using HTML/CSS/PHP/MySQL .I used plugins such as WooCommerce and Elementor. </p>
 
 ## Tools used
